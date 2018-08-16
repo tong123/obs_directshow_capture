@@ -1,0 +1,14 @@
+﻿  main.cpp
+  log.cpp
+  dshowcapture.cpp
+  dshow-media-type.cpp
+  dshow-formats.cpp
+  dshow-enum.cpp
+  dshow-encoded-device.cpp
+  dshow-demux.cpp
+  dshow-base.cpp
+  device.cpp
+  capture-filter.cpp
+  正在生成代码...
+  directshow_capture.vcxproj -> D:\vs2015_space\ffmpeg_workspace\obs_directshow_capture\directshow_capture\Debug\directshow_capture.exe
+  directshow_capture.vcxproj -> D:\vs2015_space\ffmpeg_workspace\obs_directshow_capture\directshow_capture\Debug\directshow_capture.pdb (Full PDB)
